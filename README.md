@@ -1,7 +1,8 @@
-Add your name to the `participants` on the _same_ line
+
+Add your name to the `participants` on the *same* line
 
 ```js
-const participants = ['Joonkyu', 'Justin', 'Kevin Chin', 'Fahad Khan', 'Johnny'];
 
+const participants = ['Joonkyu', 'Justin', 'Kevin Chin', 'Fahad Khan', 'Johnny', 'Ismail Patel']
 
 ```
