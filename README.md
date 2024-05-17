@@ -3,6 +3,6 @@ Add your name to the `participants` on the *same* line
 
 ```js
 
-const participants = ['Nigel']
+const participants = ['Joonkyu', 'Justin', 'Kevin Chin', 'Fahad Khan', 'Johnny', 'Ismail Patel', 'Cielo']
 
 ```
